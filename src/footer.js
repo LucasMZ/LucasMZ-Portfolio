@@ -2,9 +2,9 @@ import './index.css';
 function Footer() {
   return (
     <div className="footer">
-      <header className="footer-c">
+      <footer className="footer-c">
         hola
-      </header>
+      </footer>
     </div>
   );
 }
