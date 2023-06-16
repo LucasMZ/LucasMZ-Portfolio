@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.317ba349.css",
+    "main.js": "/static/js/main.acb301a9.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/javaproject.png": "/static/media/javaproject.beba49634af7186a7253.png",
+    "static/media/leagueproject.jpg": "/static/media/leagueproject.4eabcd86d74104be4694.jpg",
+    "index.html": "/index.html",
+    "main.317ba349.css.map": "/static/css/main.317ba349.css.map",
+    "main.acb301a9.js.map": "/static/js/main.acb301a9.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.317ba349.css",
+    "static/js/main.acb301a9.js"
+  ]
+}
